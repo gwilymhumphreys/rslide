@@ -11,7 +11,9 @@ Download the [production version][min] or the [development version][max].
 In your web page:
 
 ```html
-<script src="jquery.js"></script>
+<script src="libs/jquery/jquery.js"></script>
+<script src="libs/jquery.mobile-events.js"></script>
+<script src="libs/jquery.transit.min.js"></script>
 <script src="dist/rslide.min.js"></script>
 <script>
 jQuery(function($) {

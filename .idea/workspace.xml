@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4bb8085-a613-4938-96d5-c763cedf94cc" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jquery.rslide.js" afterPath="$PROJECT_DIR$/src/rslide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/jquery/jquery.mobile-events.js" afterPath="$PROJECT_DIR$/libs/jquery.mobile-events.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/jquery/jquery.transit.min.js" afterPath="$PROJECT_DIR$/libs/jquery.transit.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/index.html" afterPath="$PROJECT_DIR$/demo/index.html" />
@@ -58,19 +59,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.8595944">
+            <state line="55" column="50" selection-start="1681" selection-end="1795" vertical-scroll-proportion="-16.782608">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="3" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
+            <state line="22" column="3" selection-start="578" selection-end="578" vertical-scroll-proportion="0.4874446">
               <folding />
             </state>
           </provider>
@@ -152,10 +153,10 @@
         <option value="$PROJECT_DIR$/demo/css/main.css" />
         <option value="$PROJECT_DIR$/test/spec/test.js" />
         <option value="$PROJECT_DIR$/test/index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/dist/rslide.min.js" />
         <option value="$PROJECT_DIR$/dist/demo/index.html" />
         <option value="$PROJECT_DIR$/demo/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -382,6 +383,7 @@
       <recent name="C:\Projects\rslide\app\scripts\app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
       <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/app/scripts/app" />
@@ -548,13 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="3" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rslide.jquery.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -591,7 +586,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.8595944">
+        <state line="55" column="50" selection-start="1681" selection-end="1795" vertical-scroll-proportion="-16.782608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="3" selection-start="578" selection-end="578" vertical-scroll-proportion="0.4874446">
           <folding />
         </state>
       </provider>
