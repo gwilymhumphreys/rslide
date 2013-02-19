@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4bb8085-a613-4938-96d5-c763cedf94cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.rslide.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/rslide.js" afterPath="$PROJECT_DIR$/src/jquery.rslide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jquery.rslide.js" afterPath="$PROJECT_DIR$/src/rslide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/index.html" afterPath="$PROJECT_DIR$/demo/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/index.html" afterPath="$PROJECT_DIR$/test/index.html" />
     </list>
@@ -28,8 +29,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jquery.rslide.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jquery.rslide.js">
+      <file leaf-file-name="rslide.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rslide.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="386" column="21" selection-start="12816" selection-end="12816" vertical-scroll-proportion="0.0">
               <folding>
@@ -60,8 +61,50 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="1974" selection-end="1974" vertical-scroll-proportion="0.8595944">
+            <state line="66" column="0" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.8595944">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="3" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grunt.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grunt.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="6" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rslide.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/rslide.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="56" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rslide.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/rslide.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,9 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test/spec/filler.js" />
-        <option value="$PROJECT_DIR$/test/runner/mocha.js" />
-        <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/app/styles/main.scss" />
         <option value="$PROJECT_DIR$/app/scripts/app/filler.js" />
         <option value="$PROJECT_DIR$/app/scripts/app/rslide.js" />
@@ -109,10 +149,13 @@
         <option value="$PROJECT_DIR$/test/rslide_test.js" />
         <option value="$PROJECT_DIR$/test/spec/main.js" />
         <option value="$PROJECT_DIR$/demo/styles/main.css" />
-        <option value="$PROJECT_DIR$/demo/index.html" />
         <option value="$PROJECT_DIR$/demo/css/main.css" />
         <option value="$PROJECT_DIR$/test/spec/test.js" />
         <option value="$PROJECT_DIR$/test/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/dist/rslide.min.js" />
+        <option value="$PROJECT_DIR$/dist/demo/index.html" />
+        <option value="$PROJECT_DIR$/demo/index.html" />
       </list>
     </option>
   </component>
@@ -272,6 +315,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rslide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rslide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -325,6 +382,7 @@
       <recent name="C:\Projects\rslide\app\scripts\app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/app/scripts/app" />
     </key>
@@ -453,7 +511,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jquery.rslide.js">
+    <entry file="file://$PROJECT_DIR$/src/rslide.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="386" column="21" selection-start="12816" selection-end="12816" vertical-scroll-proportion="0.0">
           <folding>
@@ -490,9 +548,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="3" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rslide.jquery.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grunt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/rslide.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="56" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/rslide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="1974" selection-end="1974" vertical-scroll-proportion="0.8595944">
+        <state line="66" column="0" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.8595944">
           <folding />
         </state>
       </provider>

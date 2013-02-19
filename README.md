@@ -15,7 +15,7 @@ In your web page:
 <script src="dist/rslide.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  $('.my-ul').rslide();
 });
 </script>
 ```
