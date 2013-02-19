@@ -1,0 +1,17 @@
+.rslide-outer .prev, .rslide-outer .next {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 50%;
+  margin-top: -13px;
+  z-index: 1000;
+  opacity: 0.6;
+}
+.rslide-outer .prev {
+  left: 0;
+  background: #fff url(../img/icon/glyphicons_224_chevron-left.png) no-repeat 4px center;
+}
+.rslide-outer .next {
+  right: 0;
+  background: #fff url(../img/icon/glyphicons_223_chevron-right.png) no-repeat 7px center;
+}

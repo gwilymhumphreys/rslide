@@ -1,0 +1,29 @@
+{
+  "name": "rslide",
+  "title": "rslide",
+  "description": "A smart, responsive slider",
+  "version": "0.1.0",
+  "homepage": "http://gwilymh.com/rslide",
+  "author": {
+    "name": "Gwilym Humphreys",
+    "email": "gwilym@gwilymh.com",
+    "url": "http://gwilymh.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gwilymhumphreys/rslide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwilymhumphreys/rslide/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://gwilymh.com/rslide/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}

@@ -1,0 +1,52 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Mocha Spec Runner</title>
+  <link rel="stylesheet" href="lib/mocha/mocha.css">
+</head>
+<body>
+  <div id="mocha"></div>
+
+  <!-- Test elements -->
+  <link rel="stylesheet" href="../demo/css/main.css">
+  <style>
+    .rslide {
+      margin-top: 60px;
+    }
+    .whee {
+      width: 400px;
+    }
+  </style>
+
+  <ul class="whee">
+    <li>
+      <img src="../demo/img/sample/0iGZj.jpg">
+    </li>
+    <li>
+      <img src="../demo/img/sample/1RpF9.jpg">
+    </li>
+  </ul>
+
+  <script src="lib/mocha/mocha.js"></script>
+  <script>
+    mocha.setup({
+      ui: 'bdd',
+      ignoreLeaks: true,
+      globals: ['$', 'jQuery', 'LiveReload']
+    });
+  </script>
+
+  <!-- assertion framework -->
+  <script src="lib/chai.js"></script>
+  <script>expect = chai.expect</script>
+
+  <script src="../libs/jquery/jquery.js"></script>
+  <script src="../libs/jquery/jquery.mobile-events.js"></script>
+  <script src="../libs/jquery/jquery.transit.min.js"></script>
+  <script src="../src/rslide.js"></script>
+
+  <script src="spec/test.js"></script>
+
+</body>
+</html>
